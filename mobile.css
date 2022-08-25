@@ -1,0 +1,139 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+  width:100%;
+  margin-bottom: 10px;
+}
+
+ul.menu > li > a {
+  display: block;
+  padding: 7px 14px;
+  color:white;
+  text-decoration: none;
+}
+
+ul.menu > li:first-child > a{
+  padding: 7px 3px;
+  size:30px;
+}
+
+#myDIV{
+  padding:10px;
+  background-attachment: scroll;
+  height:max-content;
+}
+
+.containerss,.dulieu{
+  font-size:7vw;
+}
+
+#toggle{
+  display:block;
+  padding-left: 10px;
+}
+
+#menu{
+  display:none;
+}
+
+.item h4{
+  font-size:6vw;
+  margin:10px;
+}
+
+div.items>figure{
+  width:100%;
+  border:3px solid black;
+  margin:auto;
+}
+
+div.items{
+  background-color:white;
+  text-align:center;
+  border-radius:0px;
+  flex-direction: column;
+  padding:0px;
+  position:relative;
+}
+
+
+div.items a{
+color:white;
+text-decoration: none;
+display:flex;
+justify-content: center;
+}
+
+.items img {
+  width: 5vh;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 300px;
+    padding:0px;
+  }
+
+.d-flex1{
+  display:inline;
+}
+
+.chu p{
+  margin-bottom: 0px;
+}
+
+.anhtren500px{
+    display:none;
+  }
+
+.col30{
+    width:100%
+}
+
+div.my-footer{
+    display:block;
+    background-image: linear-gradient(to bottom right,lightgray,gray,black);
+    padding: 15px;
+    border-radius:20px 20px 0 0;
+}
+
+.text {
+  color:black;
+  position: absolute;
+  top:150px;
+  left: 0px;
+  border-radius: 80px;
+}
+
+.content{
+  height:260px;
+}
+
+.d-flex3{
+  display:block;
+  padding-bottom: 40px;
+}
+
+.padding h1{
+  text-align: left;
+}
+
+#container{
+  display:block;
+}
+
+#anhuser img{
+  width:80%;
+  border-radius: 100px;
+}
+
+#left{
+  display:flex;
+}
+
+#right{
+  display:none;
+}
